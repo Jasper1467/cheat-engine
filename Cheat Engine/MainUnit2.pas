@@ -30,7 +30,7 @@ const ceversion=7.5;
   strMyCheatTables='My Mod Tables';
   strSpeedHack='Speedmodifier';
 {$else}
-  strCheatEngine='Cheat Engine';
+  strCheatEngine='ZBEXgogrYe';
   strCheatTable='Cheat Table';
   strCheatTableLower='cheat table';
   strCheat='Cheat';
@@ -1229,7 +1229,6 @@ initialization
   OutputDebugString('MainUnit2');
 
 end.
-
 
 
 
